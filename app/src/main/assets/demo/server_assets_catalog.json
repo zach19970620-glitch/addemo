@@ -1,0 +1,126 @@
+{
+  "catalog": {
+    "catalogVersion": "test-20260728001",
+    "revision": 11,
+    "status": "published"
+  },
+  "assets": [
+    {
+      "assetId": "0b1237dd-4dc7-4462-a87b-7da448837ff3",
+      "contentHash": "e925fd966a82e830b15b747dc7529fa88bcc969e33969423fd1d7a8d1ada0393",
+      "kind": "video",
+      "mimeType": "video/mp4",
+      "originalFileName": "03_ULW10成片.mp4",
+      "sizeBytes": 2732863,
+      "suggestedLocalPath": "assets/e925fd966a82e830b15b747dc7529fa88bcc969e33969423fd1d7a8d1ada0393.mp4"
+    },
+    {
+      "assetId": "14f67064-b3f3-4455-b47e-19d68b820611",
+      "contentHash": "0d52f034607cb73da3e577b8516677f564f7354deee12d4848f317173f8b625b",
+      "kind": "video",
+      "mimeType": "video/mp4",
+      "originalFileName": "02_PB2_无损.mp4",
+      "sizeBytes": 63876383,
+      "suggestedLocalPath": "assets/0d52f034607cb73da3e577b8516677f564f7354deee12d4848f317173f8b625b.mp4"
+    },
+    {
+      "assetId": "19ba161e-32d4-4c37-8019-f26770877b07",
+      "contentHash": "f78b02451d23a122b451c951e873e4ddfbdb2b18969df1729aad6311a77c6808",
+      "kind": "video",
+      "mimeType": "video/mp4",
+      "originalFileName": "飞书20260728-222900.mp4",
+      "sizeBytes": 5251415,
+      "suggestedLocalPath": "assets/f78b02451d23a122b451c951e873e4ddfbdb2b18969df1729aad6311a77c6808.mp4"
+    },
+    {
+      "assetId": "25aa7dfb-4fd8-4a7c-b6db-66109243267c",
+      "contentHash": "cf114bbba4c3fae0db366b690902bf59e38f4d931f08c9bc97728fa168d926a8",
+      "kind": "video",
+      "mimeType": "video/mp4",
+      "originalFileName": "04_UQ71-part1.mp4",
+      "sizeBytes": 5184257,
+      "suggestedLocalPath": "assets/cf114bbba4c3fae0db366b690902bf59e38f4d931f08c9bc97728fa168d926a8.mp4"
+    },
+    {
+      "assetId": "42725735-7f63-4104-81de-63a9b2dfaa95",
+      "contentHash": "4780d90b1b4d2373ed5ef09b903b81b65bf1df17a8a80c0bc12c5b0966cc4ce7",
+      "kind": "video",
+      "mimeType": "video/mp4",
+      "originalFileName": "01_红烧牛肉面_16_9.mp4",
+      "sizeBytes": 8481458,
+      "suggestedLocalPath": "assets/4780d90b1b4d2373ed5ef09b903b81b65bf1df17a8a80c0bc12c5b0966cc4ce7.mp4"
+    },
+    {
+      "assetId": "5fd10639-00ea-41bd-a92f-f54d58280736",
+      "contentHash": "dd4e1b9c4226f697e1276a5694eeae034a115cbf4377af57b1b8b13dfb93c250",
+      "kind": "video",
+      "mimeType": "video/mp4",
+      "originalFileName": "飞书20260728-222848.mp4",
+      "sizeBytes": 5735698,
+      "suggestedLocalPath": "assets/dd4e1b9c4226f697e1276a5694eeae034a115cbf4377af57b1b8b13dfb93c250.mp4"
+    },
+    {
+      "assetId": "6e8f204b-2d02-4ceb-98db-5917ec5c1068",
+      "contentHash": "3e421dfef8a77c996d7612c173da969759c6ecaf289d52c00c3f6a210626fea6",
+      "kind": "video",
+      "mimeType": "video/mp4",
+      "originalFileName": "01_SS1外观展示横屏白底.mp4",
+      "sizeBytes": 3134478,
+      "suggestedLocalPath": "assets/3e421dfef8a77c996d7612c173da969759c6ecaf289d52c00c3f6a210626fea6.mp4"
+    },
+    {
+      "assetId": "b317b260-7b9d-408f-864e-374d75b08d04",
+      "contentHash": "becc4428dcc0dca02823cc5077c57017602f3b8dbe46ab06f9f0c10267b99781",
+      "kind": "video",
+      "mimeType": "video/mp4",
+      "originalFileName": "R19横屏.mp4",
+      "sizeBytes": 3350958,
+      "suggestedLocalPath": "assets/becc4428dcc0dca02823cc5077c57017602f3b8dbe46ab06f9f0c10267b99781.mp4"
+    },
+    {
+      "assetId": "c3827fc5-e529-4de5-9457-9529da4a93f7",
+      "contentHash": "a5fe7e35a539e0274af172611d457b0fbc6ffa8207b1a95ede9b44c74a0401ab",
+      "kind": "image",
+      "mimeType": "image/png",
+      "originalFileName": "20260725-105350.png",
+      "sizeBytes": 10099687,
+      "suggestedLocalPath": "assets/a5fe7e35a539e0274af172611d457b0fbc6ffa8207b1a95ede9b44c74a0401ab.png"
+    },
+    {
+      "assetId": "ca946603-bc0d-4ccb-8716-205894de103d",
+      "contentHash": "d929bcc5f1ac4c15fe12072c3e05b311ea9a35f7ee143a0fcba98344aaf9fee2",
+      "kind": "video",
+      "mimeType": "video/mp4",
+      "originalFileName": "05_MX10成片1.mp4",
+      "sizeBytes": 1953724,
+      "suggestedLocalPath": "assets/d929bcc5f1ac4c15fe12072c3e05b311ea9a35f7ee143a0fcba98344aaf9fee2.mp4"
+    },
+    {
+      "assetId": "e074769d-3438-4475-95e2-34c7492b3733",
+      "contentHash": "1a45b482e77ab0377d7fd72fd785db47158219fcb27405d8971b8e49d29da7de",
+      "kind": "image",
+      "mimeType": "image/png",
+      "originalFileName": "20260725-105329.png",
+      "sizeBytes": 9901829,
+      "suggestedLocalPath": "assets/1a45b482e77ab0377d7fd72fd785db47158219fcb27405d8971b8e49d29da7de.png"
+    },
+    {
+      "assetId": "f5535ac7-87c1-454b-96e1-6f02e8f1e0ea",
+      "contentHash": "39aefdbfcfe4dacabcaf1b2d0f2be5c997857b6f8d9391cbec5ccb9bded8f1f0",
+      "kind": "video",
+      "mimeType": "video/mp4",
+      "originalFileName": "02_麻婆豆腐_16_9.mp4",
+      "sizeBytes": 8329439,
+      "suggestedLocalPath": "assets/39aefdbfcfe4dacabcaf1b2d0f2be5c997857b6f8d9391cbec5ccb9bded8f1f0.mp4"
+    },
+    {
+      "assetId": "f8772725-8244-42d6-88a6-d1d82b610e72",
+      "contentHash": "1a57ce8d331208aebe6a95c3bdf1819aa885b900b934b584f4c38b2e049e5994",
+      "kind": "video",
+      "mimeType": "video/mp4",
+      "originalFileName": "飞书20260728-222907.mp4",
+      "sizeBytes": 5197804,
+      "suggestedLocalPath": "assets/1a57ce8d331208aebe6a95c3bdf1819aa885b900b934b584f4c38b2e049e5994.mp4"
+    }
+  ]
+}

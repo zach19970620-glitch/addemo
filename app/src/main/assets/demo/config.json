@@ -1,0 +1,51 @@
+{
+  "timeouts": {
+    "enter_ms": 5000,
+    "engage_ms": 5000,
+    "leave_ms": 4000,
+    "cooldown_ms": 6000,
+    "poster_fade_ms": 350,
+    "poster_min_ms": 20000
+  },
+  "yuki": {
+    "idle": ["video/idle.mp4"],
+    "greetings": ["video/greet_young_male.mp4"],
+    "greet_young_female": "video/greet_young_female.mp4",
+    "greet_young_male": "video/greet_young_male.mp4",
+    "greet_older_female": "video/greet_older_female.mp4",
+    "greet_older_male": "video/greet_older_male.mp4",
+    "older_age_min": 45,
+    "mood_good": "video/mood_good.mp4",
+    "mood_bad": "video/mood_bad.mp4"
+  },
+  "posters": {
+    "unico": "server_assets/a5fe7e35a539e0274af172611d457b0fbc6ffa8207b1a95ede9b44c74a0401ab.png",
+    "dining": "server_assets/a5fe7e35a539e0274af172611d457b0fbc6ffa8207b1a95ede9b44c74a0401ab.png",
+    "random": []
+  },
+  "intents": {
+    "dining": [],
+    "back_to_unico": ["回到UNICO", "回到unico", "看看品牌"]
+  },
+  "products": [
+    {
+      "id": "brand_intro",
+      "tags": ["手表", "这款手表", "看看产品", "品牌"],
+      "video": "video/idle.mp4"
+    }
+  ],
+  "dishes": [],
+  "report": {
+    "enabled": true,
+    "baseUrl": "https://api.ulandusa.com",
+    "path": "",
+    "serialNumber": "SMARTDEV-004",
+    "auto_play_video": true,
+    "local_fallback": false
+  },
+  "features": {
+    "back_to_unico": false,
+    "debug_overlay": true,
+    "aec_enabled": false
+  }
+}

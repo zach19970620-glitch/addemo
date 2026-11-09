@@ -1,0 +1,117 @@
+{
+  "note": "Signed media URLs redacted. Tokens/apiKeys not stored in full.",
+  "serialNumber": "SMARTDEV-004",
+  "phrase": "女士餐",
+  "activate": {
+    "smartDeviceId": "11afed5a-6f30-461a-92de-1e7a3993bd66",
+    "tokenExpiresAt": "2026-07-25T09:17:37.330062022Z"
+  },
+  "credentials": {
+    "http": 200,
+    "status": "ready",
+    "websocketUrl": "wss://openspeech.bytedance.com/api/v3/sauc/bigmodel_nostream",
+    "resourceId": "volc.seedasr.sauc.duration",
+    "recognitionMode": "nostream",
+    "current": {
+      "version": 1,
+      "apiKey": "82481030...(len=36)",
+      "expiresAt": "2026-08-23T09:13:44.835Z"
+    }
+  },
+  "voiceTask": {
+    "createHttp": 201,
+    "asrFinalHttp": 202,
+    "resultHttp": 200,
+    "voiceTaskId": "1f60472a-ab4e-4810-a234-c4e962e33208",
+    "providerRequestId": "aeba1382-9a31-40b8-90d8-bc9e53002f14",
+    "catalogVersion": "test-20260724001",
+    "asrFinalDueAt": "2026-07-24T09:27:38.169171338Z",
+    "asrFinalAck": {
+      "code": "ok",
+      "data": {
+        "status": "intent_processing"
+      }
+    }
+  },
+  "interactionResult": {
+    "decision": {
+      "slots": {
+        "dishId": "dish_yangzhou_rice"
+      },
+      "entities": [
+        {
+          "entityId": "dish_yangzhou_rice",
+          "entityType": "dish"
+        }
+      ],
+      "intentCode": "dish.introduce",
+      "matchState": "matched"
+    },
+    "voiceTaskId": "1f60472a-ab4e-4810-a234-c4e962e33208",
+    "resultStatus": "succeeded",
+    "schemaVersion": "interaction-result-v1",
+    "catalogVersion": "test-20260724001",
+    "interactionPlan": {
+      "decision": {
+        "slots": {
+          "dishId": "dish_yangzhou_rice"
+        },
+        "entities": [
+          {
+            "entityId": "dish_yangzhou_rice",
+            "entityType": "dish"
+          }
+        ],
+        "intentCode": "dish.introduce",
+        "matchState": "matched"
+      },
+      "voiceTaskId": "1f60472a-ab4e-4810-a234-c4e962e33208",
+      "schemaVersion": "interaction-plan-v1",
+      "availableOperations": [],
+      "presentationDirectives": [
+        {
+          "type": "SHOW_IMAGE",
+          "payload": {
+            "url": "<redacted host=ai-ad-hk-20260408.oss-cn-hongkong.aliyuncs.com len=397>",
+            "assetId": "fea5eaa0-bee2-4cb9-8da1-a9cf0ebb403c",
+            "mimeType": "image/png",
+            "expiresAt": "2026-07-24T10:17:40.30723075Z",
+            "sizeBytes": 1312443,
+            "contentHash": "13e70e347fb3d9f2a2faf0962784c582a34ccff1059454932d2e821dd616b76a"
+          },
+          "sequence": 10,
+          "directiveId": "31bfd242-f4a4-4e6c-bea1-494491be0eac",
+          "executionMode": "auto"
+        },
+        {
+          "type": "PLAY_VIDEO",
+          "payload": {
+            "url": "<redacted host=ai-ad-hk-20260408.oss-cn-hongkong.aliyuncs.com len=397>",
+            "assetId": "4ae24f9b-3081-480a-b088-0cd764badf64",
+            "mimeType": "video/mp4",
+            "expiresAt": "2026-07-24T10:17:40.307310902Z",
+            "sizeBytes": 2701534,
+            "contentHash": "577ae0be2fb327cd08e74138a6d22089488074b8f3950c5154ceba1ca85d6bbe"
+          },
+          "sequence": 20,
+          "directiveId": "ec3d5f56-f6f6-4851-a539-4ca0fcfcf711",
+          "executionMode": "user_triggered"
+        }
+      ]
+    }
+  },
+  "assetRefresh": {
+    "http": 200,
+    "body": {
+      "code": "ok",
+      "data": {
+        "assetId": "fea5eaa0-bee2-4cb9-8da1-a9cf0ebb403c",
+        "url": "<redacted host=ai-ad-hk-20260408.oss-cn-hongkong.aliyuncs.com len=397>",
+        "expiresAt": "2026-07-24T10:17:40.614377575Z",
+        "mimeType": "image/png",
+        "sizeBytes": 1312443,
+        "contentHash": "13e70e347fb3d9f2a2faf0962784c582a34ccff1059454932d2e821dd616b76a"
+      }
+    }
+  }
+}

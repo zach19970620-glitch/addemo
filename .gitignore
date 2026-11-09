@@ -1,0 +1,23 @@
+*.iml
+.gradle
+/local.properties
+/.idea
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+app/.cxx
+*.apk
+*.ap_
+*.aab
+app/build/
+# RKNN models are large; keep local copies under assets/models (see README)
+# !.rknn intentionally tracked for this demo device package if needed
+
+# Exceeds GitHub 100MB file limit; copy manually to app/src/main/assets/models/
+app/src/main/assets/models/VGGFace.rknn
+.kotlin
+.cursor
+local.properties
+**/build/

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- UVC (USB Video Class) device filter for HK5M-H210 and similar modules -->
+<resources>
+    <!-- Match any USB Video Class device (class 14 = Video) -->
+    <usb-device class="14" subclass="1" protocol="0" />
+    <usb-device class="14" subclass="1" protocol="1" />
+    <usb-device class="14" subclass="2" protocol="0" />
+    <!-- Some UVC modules report as vendor-specific with video interface -->
+    <usb-device class="239" subclass="2" protocol="1" />
+</resources>
